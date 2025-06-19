@@ -1,3 +1,3 @@
 # jardimweb
 
-![alt text](image.png)
+![alt text](imagens/image.png)
